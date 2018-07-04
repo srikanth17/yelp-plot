@@ -1,0 +1,25 @@
+{
+  "name": "yelp-plot",
+  "version": "1.0.0",
+  "description": "This project creates an interactive visualization of reviews and ratings of businesses using Yelp API data. This visualization based was created using D3 JavaScript library.",
+  "main": "visualization.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikanth17/yelp-plot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikanth17/yelp-plot/issues"
+  },
+  "homepage": "https://github.com/srikanth17/yelp-plot#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
